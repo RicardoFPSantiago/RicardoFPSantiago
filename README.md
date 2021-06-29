@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RicardoFPSantiago
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in coding anything, from Web development to artificial intelligence and Embeded systems.
+- 💪Currently using Vim and learning Doom Emacs!
 - 🌱 I’m currently learning computer science
 
 <!---
